@@ -138,9 +138,9 @@
       },
       {
         "title": "rust",
-        "value": "30",
-        "icon": "qq"
+        "value": ""
       }
+
     ],
     "title": "技能加点",
     "color": "linear-gradient(to right, #ffafbd 0%, #c9ffbf 100%)",
@@ -149,8 +149,8 @@
   },
   "footer": {
     "text": "© 2020 - 2024 By KASUIE",
-    "url": "https://baifox.us.kg",
-    "ICP": "ICP备xxxxxxxx号(未备案)",
+    "url": "https://kasuie.cc",
+    "ICP": "ICP备xxxxxxxx号",
     "direction": "col-reverse",
     "isExternal": true
   },

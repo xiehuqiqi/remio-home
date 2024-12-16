@@ -87,11 +87,76 @@
       "desc": "baofoxlauncher 项目"
     },
     {
+      "icon": "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
+      "title": "KASUIEの库",
+      "url": "https://dist.kasuie.cc",
+      "desc": "网盘挂载程序"
+    },
+    {
+      "icon": "https://cs.kasuie.cc/icons/0d2e7fe7-3cca-4989-9bb4-4a39cee77801.png!cover",
+      "title": "KASUIEの图床",
+      "url": "https://upload.kasuie.cc",
+      "desc": "图床服务"
+    },
+    {
       "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
-      "title": "Docs",
-      "url": "https://docs.baifox.us.kg",
+      "title": "监控服务",
+      "url": "https://status.kasuie.cc/status",
+      "desc": "服务程序监控"
+    },
+    {
+      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
+      "title": "KASUIEのDocs",
+      "url": "https://docs.kasuie.cc",
       "desc": "文档服务"
     },
+    {
+      "icon": "https://cs.kasuie.cc/icons/a8cb45a8-c0ec-41e7-ab8f-ff4fe8817230.jpg!cover",
+      "title": "杂七杂八",
+      "desc": "阿巴阿巴..."
+    },
+    {
+      "icon": "https://cs.kasuie.cc/icons/1419ac35-0a57-4359-bb2f-55a26fc52bd8.png!cover",
+      "title": "喜好生成表",
+      "url": "https://like.kasuie.cc",
+      "desc": "个人喜好生成表"
+    },
+    {
+      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
+      "title": "KASUIEの次元",
+      "url": "https://hexo.kasuie.cc",
+      "desc": "Hexo版本博客程序"
+    },
+    {
+      "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
+      "title": "KASUIEの次元",
+      "url": "https://v3.kasuie.cc",
+      "desc": "上版本的博客程序(服务关了"
+    },
+    {
+      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
+      "title": "KASUIEの次元",
+      "url": "https://v2.kasuie.cc",
+      "desc": "早期博客主题(v2)"
+    },
+    {
+      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
+      "title": "KASUIEの次元",
+      "url": "https://v1.kasuie.cc",
+      "desc": "早期博客主题(v1)"
+    },
+    {
+      "icon": "https://cs.kasuie.cc/icons/cbc99c37-af7a-440b-ae17-76befb78042c.webp!cover",
+      "title": "KASUIEの次元",
+      "url": "https://v0.kasuie.cc",
+      "desc": "早期博客主题(v0)"
+    },
+    {
+      "icon": "https://cs.kasuie.cc/icons/2ccc4639-8fea-455f-a3b0-ef8073869f2a.jpg",
+      "title": "KASUIEの导航",
+      "url": "https://pixlips.github.io",
+      "desc": "导航页(beta)"
+    }
   ],
   "sitesConfig": {
     "hidden": false,
@@ -113,17 +178,17 @@
     "data": [
       {
         "title": "JavaScript/TypeScript",
-        "value": 60,
+        "value": 70,
         "icon": "qq"
       },
       {
         "title": "CSS/CSS3",
-        "value": 60,
+        "value": 70,
         "icon": "qq"
       },
       {
         "title": "React",
-        "value": 20,
+        "value": 40,
         "icon": "qq"
       },
       {
@@ -132,14 +197,40 @@
         "icon": "qq"
       },
       {
-        "title": "tauri-app",
-        "value": "75",
-        "icon": "qq"
+        "title": "Next.js",
+        "value": 50
       },
       {
-        "title": "rust",
-        "value": "30",
-        "icon": "qq"
+        "title": "Nuxt.js",
+        "value": 20
+      },
+      {
+        "title": "Three.js",
+        "value": 10
+      },
+      {
+        "title": "Node.js",
+        "value": 30
+      },
+      {
+        "title": "Electron",
+        "value": 5
+      },
+      {
+        "title": "Spring Boot",
+        "value": 40
+      },
+      {
+        "title": "Linux",
+        "value": 60
+      },
+      {
+        "title": "Mysql",
+        "value": 55
+      },
+      {
+        "title": "Docker",
+        "value": 45
       }
     ],
     "title": "技能加点",
@@ -149,8 +240,8 @@
   },
   "footer": {
     "text": "© 2020 - 2024 By KASUIE",
-    "url": "https://baifox.us.kg",
-    "ICP": "ICP备xxxxxxxx号(未备案)",
+    "url": "https://kasuie.cc",
+    "ICP": "ICP备xxxxxxxx号",
     "direction": "col-reverse",
     "isExternal": true
   },

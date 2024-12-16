@@ -113,17 +113,17 @@
     "data": [
       {
         "title": "JavaScript/TypeScript",
-        "value": 60,
+        "value": 70,
         "icon": "qq"
       },
       {
         "title": "CSS/CSS3",
-        "value": 60,
+        "value": 70,
         "icon": "qq"
       },
       {
         "title": "React",
-        "value": 20,
+        "value": 40,
         "icon": "qq"
       },
       {
@@ -132,14 +132,40 @@
         "icon": "qq"
       },
       {
-        "title": "tauri-app",
-        "value": "75",
-        "icon": "qq"
+        "title": "Next.js",
+        "value": 50
       },
       {
-        "title": "rust",
-        "value": "30",
-        "icon": "qq"
+        "title": "Nuxt.js",
+        "value": 20
+      },
+      {
+        "title": "Three.js",
+        "value": 10
+      },
+      {
+        "title": "Node.js",
+        "value": 30
+      },
+      {
+        "title": "Electron",
+        "value": 5
+      },
+      {
+        "title": "Spring Boot",
+        "value": 40
+      },
+      {
+        "title": "Linux",
+        "value": 60
+      },
+      {
+        "title": "Mysql",
+        "value": 55
+      },
+      {
+        "title": "Docker",
+        "value": 45
       }
     ],
     "title": "技能加点",
@@ -149,8 +175,8 @@
   },
   "footer": {
     "text": "© 2020 - 2024 By KASUIE",
-    "url": "https://baifox.us.kg",
-    "ICP": "ICP备xxxxxxxx号(未备案)",
+    "url": "https://kasuie.cc",
+    "ICP": "ICP备xxxxxxxx号",
     "direction": "col-reverse",
     "isExternal": true
   },

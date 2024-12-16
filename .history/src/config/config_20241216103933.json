@@ -132,14 +132,9 @@
         "icon": "qq"
       },
       {
-        "title": "tauri-app",
+        "title": "tauri-app"
         "value": "75",
-        "icon": "qq"
-      },
-      {
-        "title": "rust",
-        "value": "30",
-        "icon": "qq"
+        "icon"
       }
     ],
     "title": "技能加点",
@@ -149,8 +144,8 @@
   },
   "footer": {
     "text": "© 2020 - 2024 By KASUIE",
-    "url": "https://baifox.us.kg",
-    "ICP": "ICP备xxxxxxxx号(未备案)",
+    "url": "https://kasuie.cc",
+    "ICP": "ICP备xxxxxxxx号",
     "direction": "col-reverse",
     "isExternal": true
   },
