@@ -51,7 +51,7 @@
     {
       "title": "qq",
       "color": "#dfba00",
-      "url": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=zIvBSvLDRr4MvqFSHcioDwS090ljUYHT&authKey=THHoVVpDZWHfnpZoNf57rDWzwrXmTWtnlN70ljCM6cG9eZ5KTIJcTxrvc7%2B7YdVI&noverify=0&group_code=793752494",
+      "url": "http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=zIvBSvLDRr4MvqFSHcioDwS090ljUYHT&authKey=THHoVVpDZWHfnpZoNf57rDWzwrXmTWtnlN70ljCM6cG9eZ5KTIJcTxrvc7%2B7YdVI&noverify=0&group_code=2779479796",
       "icon": "qq"
     },
     {
@@ -77,7 +77,7 @@
     {
       "icon": "https://cs.kasuie.cc/icons/d5570e8a-a826-47be-91b2-f6949b743111.webp!cover",
       "title": "主页",
-      "url": "//",
+      "url": "https://baifox.us.kg",
       "desc": "博客主页"
     },
     {
@@ -91,7 +91,7 @@
       "title": "Docs",
       "url": "https://docs.baifox.us.kg",
       "desc": "文档服务"
-    },
+    }
   ],
   "sitesConfig": {
     "hidden": false,
